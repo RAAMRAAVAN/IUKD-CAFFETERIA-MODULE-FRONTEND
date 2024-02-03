@@ -1,0 +1,20 @@
+.background {
+    background-image: url('images/background_image.jpg');
+    background-size: cover;
+    background-position: center;
+    /* border:1px red solid; */
+    border-radius: 0;
+}
+.login-box {
+    background-color: #b3c5e6;
+    border: none;
+    margin-top: 10px;
+}
+
+.iukd-logo {
+    display: flex;
+    width: 300px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
